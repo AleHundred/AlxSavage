@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola! 👋
+
+My name is Alejandra, but people call me Alex.
+
+My pronouns are She/Her/Hers.
+
+I currently work at Webflow as a Senior Software Engineer, but have been playing with stuff on the interwebs since the times of Geocities.
+
+
 
 <!--
 **AlxSavage/AlxSavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
