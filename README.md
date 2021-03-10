@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-My name is Alejandra, but people call me Alex.
+My name is Alejandra, but people (often) call me Alex.
 
 My pronouns are She/Her/Hers.
 
