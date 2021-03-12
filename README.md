@@ -4,7 +4,9 @@ My name is Alejandra, but people (often) call me Alex.
 
 My pronouns are She/Her/Hers.
 
-I currently work at Webflow as a Senior Software Engineer, but have been playing with stuff on the interwebs since the times of Geocities.
+I currently work at Webflow as a Senior Software Engineer, but I have been playing with building stuff on the interwebs since the times of Geocities.
+
+Apart from building interfaces of products that enable people to make technology serve humanity better, I also care about humans in tech, so I think a lot about remote collaboration, knowledge sharing and learning theory.
 
 
 
